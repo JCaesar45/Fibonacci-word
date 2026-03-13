@@ -91,7 +91,7 @@ Copy
 fibonacci-word-explorer/
 ├── index.html          # Complete application (HTML+CSS+JS)
 └── README.md           # Documentation
-
+```
 License
 MIT License - Feel free to use, modify, and distribute.
 Credits
