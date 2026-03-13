@@ -45,7 +45,7 @@ function calculateEntropy(word) {
     
     return Math.round(entropy * 100000000) / 100000000;
 }
-``
+
 CSS Architecture
 CSS Variables: Dynamic theming with custom properties
 Glassmorphism: Backdrop-filter blur with rgba transparency
