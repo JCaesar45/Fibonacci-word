@@ -45,6 +45,7 @@ function calculateEntropy(word) {
     
     return Math.round(entropy * 100000000) / 100000000;
 }
+
 CSS Architecture
 CSS Variables: Dynamic theming with custom properties
 Glassmorphism: Backdrop-filter blur with rgba transparency
@@ -96,7 +97,7 @@ Credits
 Built with precision and passion. No AI assistance. Pure human craftsmanship.
 plain
 Copy
-
+```
 This complete project delivers:
 
 **HTML**: Semantic structure with accessibility considerations, custom data attributes, and SEO-friendly markup.
