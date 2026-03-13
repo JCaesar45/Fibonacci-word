@@ -93,6 +93,7 @@ fibonacci-word-explorer/
 └── README.md           # Documentation
 ```
 License
+
 MIT License - Feel free to use, modify, and distribute.
 Credits
 Built with precision and passion. No AI assistance. Pure human craftsmanship.
